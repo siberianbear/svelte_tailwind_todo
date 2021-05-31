@@ -1,2 +1,2 @@
 # svelte_tailwind_todo
-Simple TODO with Vite + Svelte + Tailwind
+Pretty Simple TODO with Vite + Svelte + Tailwind
